@@ -1,0 +1,9 @@
+boto3
+coverage
+mock
+moto
+pandas
+numpy
+uuid
+botocore
+python-jose

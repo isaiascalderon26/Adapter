@@ -1,0 +1,6 @@
+.venv
+src/_*
+test/_pycache_
+.coverage
+coverage.xml
+htmlcov
